@@ -1,10 +1,10 @@
 ## Olá, eu sou o Marcus Vinicius, estudante de Sistemas de Informação!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=marcusvrds07&theme=shadow_green" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=marcusvrds07&theme=shadow_green" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusvrds07&layout=compact&langs_count=8&card_width=320&theme=shadow_green" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusvrds07&layout=compact&langs_count=8&card_width=320&theme=shadow_green" />
 </a>
 
 <div style="display: inline_block"><br>
@@ -22,5 +22,3 @@
   <a href="https://www.linkedin.com/in/marcus-vinicius-7877362a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https://github.com/marcusvrds07/blob/output/github-contribution-grid-snake.svg)
