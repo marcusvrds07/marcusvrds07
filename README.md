@@ -2,14 +2,14 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcusvrds07&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marcus github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvrds07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=marcusvrds07&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marcus github stats" /> 
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvrds07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
 
 <a href="https://github.com/marcusvrds07">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=marcusvrds07&theme=shadow_green" />
+  <img hub-readme-stats.vercel.app/api?username=marcusvrds07&theme=shadow_green" />
 </a>
 <a href="https://github.com/marcusvrds07">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusvrds07&layout=compact&langs_count=8&card_width=320&theme=shadow_green" />
